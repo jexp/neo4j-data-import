@@ -1,0 +1,851 @@
+start	end	type	role
+19995	Action	GENRE
+19995	Adventure	GENRE
+19995	Fantasy	GENRE
+19995	Science Fiction	GENRE
+194	Fantasy	GENRE
+194	Drama	GENRE
+194	Comedy	GENRE
+194	Romance	GENRE
+194	Foreign	GENRE
+600	Drama	GENRE
+600	History	GENRE
+600	War	GENRE
+600	Foreign	GENRE
+601	Drama	GENRE
+601	Family	GENRE
+601	Science Fiction	GENRE
+602	Action	GENRE
+602	Adventure	GENRE
+602	Science Fiction	GENRE
+603	Adventure	GENRE
+603	Action	GENRE
+603	Thriller	GENRE
+603	Science Fiction	GENRE
+604	Adventure	GENRE
+604	Action	GENRE
+604	Thriller	GENRE
+604	Science Fiction	GENRE
+605	Adventure	GENRE
+605	Action	GENRE
+605	Thriller	GENRE
+605	Science Fiction	GENRE
+606	Drama	GENRE
+606	Romance	GENRE
+607	Action	GENRE
+607	Adventure	GENRE
+607	Comedy	GENRE
+607	Science Fiction	GENRE
+608	Action	GENRE
+608	Adventure	GENRE
+608	Comedy	GENRE
+608	Science Fiction	GENRE
+609	Horror	GENRE
+13	Comedy	GENRE
+13	Drama	GENRE
+13	Romance	GENRE
+20526	Adventure	GENRE
+20526	Action	GENRE
+20526	Thriller	GENRE
+20526	Science Fiction	GENRE
+20526	Family	GENRE
+11	Adventure	GENRE
+11	Fantasy	GENRE
+11	Action	GENRE
+11	Science Fiction	GENRE
+11	Family	GENRE
+1893	Adventure	GENRE
+1893	Fantasy	GENRE
+1893	Action	GENRE
+1893	Science Fiction	GENRE
+1893	Family	GENRE
+1892	Adventure	GENRE
+1892	Fantasy	GENRE
+1892	Action	GENRE
+1892	Science Fiction	GENRE
+1892	Family	GENRE
+1894	Adventure	GENRE
+1894	Fantasy	GENRE
+1894	Action	GENRE
+1894	Science Fiction	GENRE
+1894	Family	GENRE
+168	Adventure	GENRE
+168	Action	GENRE
+168	Science Fiction	GENRE
+168	Family	GENRE
+193	Science Fiction	GENRE
+193	Action	GENRE
+193	Mystery	GENRE
+200	Science Fiction	GENRE
+200	Action	GENRE
+200	Adventure	GENRE
+157	Adventure	GENRE
+157	Action	GENRE
+157	Science Fiction	GENRE
+157	Family	GENRE
+152	Adventure	GENRE
+152	Action	GENRE
+152	Science Fiction	GENRE
+152	Family	GENRE
+201	Science Fiction	GENRE
+201	Action	GENRE
+201	Adventure	GENRE
+154	Adventure	GENRE
+154	Action	GENRE
+154	Science Fiction	GENRE
+154	Family	GENRE
+12155	Adventure	GENRE
+12155	Fantasy	GENRE
+12155	Science Fiction	GENRE
+12155	Family	GENRE
+58	Adventure	GENRE
+58	Fantasy	GENRE
+58	Action	GENRE
+58	Comedy	GENRE
+58	Science Fiction	GENRE
+285	Adventure	GENRE
+285	Fantasy	GENRE
+285	Action	GENRE
+285	Comedy	GENRE
+285	Science Fiction	GENRE
+118	Adventure	GENRE
+118	Fantasy	GENRE
+118	Comedy	GENRE
+118	Science Fiction	GENRE
+118	Family	GENRE
+22	Adventure	GENRE
+22	Fantasy	GENRE
+22	Action	GENRE
+22	Comedy	GENRE
+22	Science Fiction	GENRE
+392	Comedy	GENRE
+392	Drama	GENRE
+392	Foreign	GENRE
+392	Romance	GENRE
+5255	Adventure	GENRE
+5255	Animation	GENRE
+5255	Family	GENRE
+5255	Holiday	GENRE
+568	Drama	GENRE
+568	History	GENRE
+568	Disaster	GENRE
+9800	Drama	GENRE
+9800	Mystery	GENRE
+497	Fantasy	GENRE
+497	Drama	GENRE
+497	Science Fiction	GENRE
+101	Action	GENRE
+101	Thriller	GENRE
+101	Crime	GENRE
+101	Foreign	GENRE
+120	Adventure	GENRE
+120	Fantasy	GENRE
+120	Action	GENRE
+120	Science Fiction	GENRE
+121	Adventure	GENRE
+121	Fantasy	GENRE
+121	Action	GENRE
+121	Science Fiction	GENRE
+122	Adventure	GENRE
+122	Fantasy	GENRE
+122	Drama	GENRE
+122	Action	GENRE
+122	Science Fiction	GENRE
+65731	19995	ACTED_IN	Jake Sully
+8691	19995	ACTED_IN	Neytiri
+10205	19995	ACTED_IN	Dr. Grace Augustine
+32747	19995	ACTED_IN	Col. Quaritch
+17647	19995	ACTED_IN	Trudy Chacon
+59231	19995	ACTED_IN	Norm Spellman
+1771	19995	ACTED_IN	Selfridge
+30485	19995	ACTED_IN	Moha
+10964	19995	ACTED_IN	TsuTey
+15853	19995	ACTED_IN	Eytukan
+95697	19995	ACTED_IN	Dr. Max Patel
+98215	19995	ACTED_IN	Lyle Wainfleet
+98216	19995	ACTED_IN	Samson Pilot
+2405	194	ACTED_IN	Amélie Poulain
+2407	194	ACTED_IN	Raphaël Poulain
+2408	194	ACTED_IN	Lucien
+1654	194	ACTED_IN	Suzanne
+2412	194	ACTED_IN	Georgette
+2413	194	ACTED_IN	Joseph
+2414	194	ACTED_IN	Hipolito
+2415	194	ACTED_IN	Madeleine Wallace
+2409	194	ACTED_IN	Amandine Poulain
+2410	194	ACTED_IN	Raymond Dufayel
+2411	194	ACTED_IN	Gina
+2416	194	ACTED_IN	Mr. Collignon
+2417	194	ACTED_IN	Dominique Bretodeau
+2406	194	ACTED_IN	Nino Quincampoix
+8654	600	ACTED_IN	Pvt. Joker
+2059	600	ACTED_IN	Animal Mother
+7132	600	ACTED_IN	Pvt. Pyle
+8655	600	ACTED_IN	Gny. Sgt. Hartman
+8656	600	ACTED_IN	Eightball
+8657	600	ACTED_IN	Rafterman
+3229	600	ACTED_IN	Pvt. Cowboy
+8658	600	ACTED_IN	Lt. Touchdown
+8659	600	ACTED_IN	Lt. Lockhart
+8660	600	ACTED_IN	Crazy Earl
+8661	600	ACTED_IN	Payback
+8662	600	ACTED_IN	Doorgunner
+8663	600	ACTED_IN	Doc Jay
+8664	600	ACTED_IN	Poge Colonel
+8665	600	ACTED_IN	Lt. Cleves
+8666	600	ACTED_IN	T.H.E. Rock
+8667	600	ACTED_IN	Donlon
+8668	600	ACTED_IN	Da Nang Hooker
+8669	600	ACTED_IN	Snowball
+8670	600	ACTED_IN	VC Sniper
+8671	600	ACTED_IN	ARVN Pimp
+8672	600	ACTED_IN	Chili
+9976	601	ACTED_IN	Elliott
+9979	601	ACTED_IN	Keys
+69597	601	ACTED_IN	Gertie
+23764	601	ACTED_IN	Pretty Girl
+9981	601	ACTED_IN	Steve
+2878	601	ACTED_IN	Tyler
+9978	601	ACTED_IN	Michael
+9982	601	ACTED_IN	Schoolboy
+9980	601	ACTED_IN	Greg
+9983	601	ACTED_IN	Science Teacher
+9984	601	ACTED_IN	Policeman
+9985	601	ACTED_IN	E.T. (voice)
+62001	601	ACTED_IN	Mary
+2888	602	ACTED_IN	Captain Steven Hiller
+8984	602	ACTED_IN	President Thomas J. Whitmore
+4785	602	ACTED_IN	David Levinson
+1581	602	ACTED_IN	First Lady Marilyn Whitmore
+6167	602	ACTED_IN	Julius Levinson
+1162	602	ACTED_IN	General William Grey
+1811	602	ACTED_IN	Russell Casse
+8985	602	ACTED_IN	Constance Spano
+2535	602	ACTED_IN	Jasmine Dubrow
+8986	602	ACTED_IN	Albert Nimzicki
+7420	602	ACTED_IN	Marty Gilbert
+2059	602	ACTED_IN	Major Mitchell
+2389	602	ACTED_IN	Dr. Brackish Okun
+1582	602	ACTED_IN	Miguel Casse
+8987	602	ACTED_IN	Alicia Casse
+4133	602	ACTED_IN	Troy Casse
+18688	602	ACTED_IN	Captain Jimmy Wilder
+6384	603	ACTED_IN	Neo
+2975	603	ACTED_IN	Morpheus
+530	603	ACTED_IN	Trinity
+1331	603	ACTED_IN	Agent Smith
+532	603	ACTED_IN	Cypher
+9372	603	ACTED_IN	Tank
+9364	603	ACTED_IN	Oracle
+7244	603	ACTED_IN	Apoc
+9376	603	ACTED_IN	Switch
+9374	603	ACTED_IN	Mouse
+9378	603	ACTED_IN	Dozer
+9380	603	ACTED_IN	Agent Brown
+9383	603	ACTED_IN	Rhineheart
+9384	603	ACTED_IN	Choi
+39545	603	ACTED_IN	Agent Jones
+181214	603	ACTED_IN	White Rabbit Girl
+1090466	603	ACTED_IN	Priestess
+218366	603	ACTED_IN	Spoon Boy
+57799	603	ACTED_IN	Lieutenant
+6384	604	ACTED_IN	Neo
+2975	604	ACTED_IN	Morpheus
+530	604	ACTED_IN	Trinity
+1331	604	ACTED_IN	Agent Smith
+9364	604	ACTED_IN	Oracle
+9443	604	ACTED_IN	The Architect
+2192	604	ACTED_IN	The Merovingian
+28782	604	ACTED_IN	Persephone
+9448	604	ACTED_IN	Twin #2
+9450	604	ACTED_IN	Twin #1
+9452	604	ACTED_IN	Agent Johnson
+9457	604	ACTED_IN	Captain Ballard
+9459	604	ACTED_IN	Agent Jackson
+9462	604	ACTED_IN	The Keymaker
+9464	604	ACTED_IN	Commander Lock
+9466	604	ACTED_IN	Agent Thompson
+52908	604	ACTED_IN	Seraph
+537506	604	ACTED_IN	Councillor West
+9575	604	ACTED_IN	Niobe
+18286	604	ACTED_IN	Zee
+6384	605	ACTED_IN	Neo
+2975	605	ACTED_IN	Morpheus
+530	605	ACTED_IN	Trinity
+1331	605	ACTED_IN	Agent Smith
+9572	605	ACTED_IN	Oracle
+9443	605	ACTED_IN	The Architect
+2192	605	ACTED_IN	The Merovingian
+9457	605	ACTED_IN	Captain Ballard
+9462	605	ACTED_IN	The Keymaker
+9464	605	ACTED_IN	Commander Lock
+9466	605	ACTED_IN	Agent Thompson
+6195	605	ACTED_IN	Link
+9575	605	ACTED_IN	Niobe
+9576	605	ACTED_IN	Cas
+52908	605	ACTED_IN	Seraph
+537506	605	ACTED_IN	Councillor West
+18286	605	ACTED_IN	Zee
+28782	605	ACTED_IN	Persephone
+62490	605	ACTED_IN	Tower Soldier
+5064	606	ACTED_IN	Karen Christence Dinesen Blixen
+4135	606	ACTED_IN	Denys George Finch Hatton
+10647	606	ACTED_IN	Baron Bror Blixen/Baron Hans Blixen
+10648	606	ACTED_IN	Berkeley Cole
+10649	606	ACTED_IN	Farah
+10650	606	ACTED_IN	Kamante
+10651	606	ACTED_IN	Kinanjui
+3796	606	ACTED_IN	Lord Delamere
+10652	606	ACTED_IN	Felicity
+10653	606	ACTED_IN	Lady Belfield
+10654	606	ACTED_IN	Lord Belfield
+10655	606	ACTED_IN	Sir Joseph
+10656	606	ACTED_IN	Juma
+10657	606	ACTED_IN	Belknap, farm manager
+10658	606	ACTED_IN	Kanuthia
+1154526	606	ACTED_IN	Ismail
+2124	606	ACTED_IN	Mariammo
+2176	607	ACTED_IN	Agent K
+2888	607	ACTED_IN	James Edwards / Agent J
+9625	607	ACTED_IN	Dr. Laurel Weaver / Agent L
+7132	607	ACTED_IN	Edgar / The Bug
+9626	607	ACTED_IN	Chief Zed
+4252	607	ACTED_IN	Jack Jeebs
+9628	607	ACTED_IN	Gentle Rosenburg the Arquillian Jeweler
+9629	607	ACTED_IN	Van driver
+9630	607	ACTED_IN	Jose
+9631	607	ACTED_IN	Arquillian
+9632	607	ACTED_IN	INS agent Janus
+9633	607	ACTED_IN	Agent D
+9634	607	ACTED_IN	2nd Lt. Jake Jensen
+6751	607	ACTED_IN	Beatrice
+443770	607	ACTED_IN	Mikey
+2176	608	ACTED_IN	Kevin Brown, Agent Kay
+2888	608	ACTED_IN	Agent Jay
+9626	608	ACTED_IN	Zed
+6684	608	ACTED_IN	Serleena
+9656	608	ACTED_IN	Scrad/Charlie
+5916	608	ACTED_IN	Laura Vasquez
+4252	608	ACTED_IN	Jack Jeebs
+9657	608	ACTED_IN	Agent Tee
+1240	608	ACTED_IN	Ben
+212	608	ACTED_IN	Newton
+9658	608	ACTED_IN	Hailey
+9659	608	ACTED_IN	Captain Larry Bridgewater, The Motorman
+120724	608	ACTED_IN	Cameo
+8977	609	ACTED_IN	Steve Freeling
+10080	609	ACTED_IN	Diane Freeling
+10083	609	ACTED_IN	Dr. Lesh
+10084	609	ACTED_IN	Dana Freeling
+10085	609	ACTED_IN	Robbie Freeling
+10086	609	ACTED_IN	Carol Anne Freeling
+10087	609	ACTED_IN	Ben Tuthill
+10088	609	ACTED_IN	Mrs. Tuthill
+10089	609	ACTED_IN	Dr. Marty Casey
+10090	609	ACTED_IN	Ryan
+10091	609	ACTED_IN	Tangina Barrons
+2851	609	ACTED_IN	Pugsley
+31	13	ACTED_IN	Forrest Gump
+32	13	ACTED_IN	Jenny Curran
+33	13	ACTED_IN	Lt. Dan Taylor
+34	13	ACTED_IN	Pvt. Benjamin Buford Bubba Blue
+35	13	ACTED_IN	Mrs. Gump
+37821	13	ACTED_IN	Young Forrest Gump
+37822	13	ACTED_IN	Elvis Presley
+37823	13	ACTED_IN	Coach
+37824	13	ACTED_IN	President John F. Kennedy
+37825	13	ACTED_IN	Drill Sergeant
+37826	13	ACTED_IN	Tex
+37827	13	ACTED_IN	President Johnson
+37828	13	ACTED_IN	Elderly Southern Woman on Park Bench
+37829	13	ACTED_IN	Taxi Driver
+9640	13	ACTED_IN	Forrest Gump Jr.
+37830	13	ACTED_IN	Bubbas Great-Grandmother
+37831	13	ACTED_IN	Mrs. Blue, Bubbas Mother
+37832	13	ACTED_IN	Jennys Father
+36221	13	ACTED_IN	Principal
+204997	13	ACTED_IN	Young Jenny Curran
+9828	20526	ACTED_IN	Sam Flynn
+1229	20526	ACTED_IN	Kevin Flynn / Clu
+59315	20526	ACTED_IN	Quorra
+2547	20526	ACTED_IN	Alan Bradley / Tron
+60033	20526	ACTED_IN	Siren
+86268	20526	ACTED_IN	Siren
+20403	20526	ACTED_IN	Siren
+130108	20526	ACTED_IN	Siren
+22063	20526	ACTED_IN	Jarvis
+86269	20526	ACTED_IN	Young Mrs. Flynn
+58371	20526	ACTED_IN	Sobel
+3968	20526	ACTED_IN	Castor / Zuse
+109205	20526	ACTED_IN	Young Sam
+37980	20526	ACTED_IN	Green Light Cycle Rider
+67931	20526	ACTED_IN	Masked DJs
+10874	20526	ACTED_IN	Chattering Homeless Man
+43263	20526	ACTED_IN	Bartik
+145110	20526	ACTED_IN	Half Faced Man (as Yurij Kis)
+2	11	ACTED_IN	Luke Skywalker
+4	11	ACTED_IN	Leia Organa
+3	11	ACTED_IN	Han Solo
+5	11	ACTED_IN	Grand Moff Tarkin
+6	11	ACTED_IN	C-3PO
+130	11	ACTED_IN	R2-D2
+12248	11	ACTED_IN	Obi-Wan Kenobi
+24343	11	ACTED_IN	Chewbacca
+24342	11	ACTED_IN	Darth Vader
+15152	11	ACTED_IN	Darth Vader (voice)
+33032	11	ACTED_IN	Uncle Owen
+131625	11	ACTED_IN	Aunt Beru
+81024	11	ACTED_IN	Advisor to Grand Moff Tarkin
+663	11	ACTED_IN	Jek Tono Porkins (Red Six)
+166258	11	ACTED_IN	Lt. Shann Childsen
+524	1893	ACTED_IN	Queen Amidala
+3061	1893	ACTED_IN	Obi Wan Kenobi
+3896	1893	ACTED_IN	Qui-Gon Jinn
+27762	1893	ACTED_IN	Senator Palpatine
+6	1893	ACTED_IN	C-3PO
+130	1893	ACTED_IN	R2-D2
+33196	1893	ACTED_IN	Anakin Skywalker
+33190	1893	ACTED_IN	Shmi Skywalker
+7908	1893	ACTED_IN	Yoda (voice)
+31923	1893	ACTED_IN	Governor Bibble
+11007	1893	ACTED_IN	Darth Maul
+31925	1893	ACTED_IN	Capt. Panaka
+33197	1893	ACTED_IN	Jar Jar Binks (Voice)
+33198	1893	ACTED_IN	Watto
+25441	1893	ACTED_IN	Capt. Tarpals
+2231	1893	ACTED_IN	Mace Windu
+116	1893	ACTED_IN	Sabé
+1769	1893	ACTED_IN	Saché
+11184	1893	ACTED_IN	Wald
+2	1892	ACTED_IN	Luke Skywalker
+3	1892	ACTED_IN	Han Solo
+4	1892	ACTED_IN	Princess Leia
+3799	1892	ACTED_IN	Lando Calrissian
+6	1892	ACTED_IN	C-3PO
+24343	1892	ACTED_IN	Chewbacca
+15152	1892	ACTED_IN	Voice of Darth Vader (voice)
+7908	1892	ACTED_IN	Yoda (voice)
+27762	1892	ACTED_IN	The Emperor
+28235	1892	ACTED_IN	Anakin Skywalker
+24342	1892	ACTED_IN	Darth Vader
+12248	1892	ACTED_IN	Ben Obi-Wan Kenobi
+130	1892	ACTED_IN	R2-D2 / Paploo
+11184	1892	ACTED_IN	Wicket
+3061	1894	ACTED_IN	Obi Wan Kenobi
+524	1894	ACTED_IN	Padmé Amidala
+17244	1894	ACTED_IN	Anakin Skywalker
+113	1894	ACTED_IN	Count Dooku
+27762	1894	ACTED_IN	Chancellor Palpatine
+2231	1894	ACTED_IN	Mace Windu
+9827	1894	ACTED_IN	Dormé
+7908	1894	ACTED_IN	Yoda (Voice)
+6	1894	ACTED_IN	C-3PO
+130	1894	ACTED_IN	R2-D2
+9374	1894	ACTED_IN	Elan Sleazebaggano
+33186	1894	ACTED_IN	Gilramos Libkath
+33187	1894	ACTED_IN	Cordé
+20806	1894	ACTED_IN	Ki-Adi-Mundi
+20806	1894	ACTED_IN	Viceroy Nute Gunray
+31923	1894	ACTED_IN	Govenor Sio Bibble
+33188	1894	ACTED_IN	Dexter Jettster
+33182	1894	ACTED_IN	Capt. Typho
+33181	1894	ACTED_IN	Senator Bail Organa
+33189	1894	ACTED_IN	Boba Fett
+7242	1894	ACTED_IN	Jango Fett
+33190	1894	ACTED_IN	Shmi Skywalker
+33191	1894	ACTED_IN	Queen Jamillia
+33192	1894	ACTED_IN	Owen Lars
+12536	1894	ACTED_IN	Cliegg Lars
+131634	1894	ACTED_IN	Beru
+33198	1894	ACTED_IN	Watto (voice)
+1748	168	ACTED_IN	Admiral/Captain James T. Kirk
+1749	168	ACTED_IN	Captain Spock
+1750	168	ACTED_IN	Dr. Leonard McCoy
+1751	168	ACTED_IN	Montgomery Scott
+1752	168	ACTED_IN	Cmdr. Hikaru Sulu
+1754	168	ACTED_IN	Cmdr. Pavel Chekov
+1753	168	ACTED_IN	Cmdr. Uhura
+2021	168	ACTED_IN	Amanda
+2022	168	ACTED_IN	Dr. Gillian Taylor
+1820	168	ACTED_IN	Ambassador Sarek
+1819	168	ACTED_IN	Lt. Saavik
+2387	193	ACTED_IN	Captain Jean-Luc Picard
+2388	193	ACTED_IN	Commander William T. Riker
+2389	193	ACTED_IN	Lt. Commander Data
+2390	193	ACTED_IN	Lt. Commander Geordi La Forge
+2391	193	ACTED_IN	Lt. Commander Worf
+2392	193	ACTED_IN	Dr. Beverly Crusher
+2393	193	ACTED_IN	Commander Deanna Troi
+1748	193	ACTED_IN	James T. Kirk
+1751	193	ACTED_IN	Montgomery Scott
+1754	193	ACTED_IN	Pavel Chekov
+56890	193	ACTED_IN	Dr. Tolian Soran
+2394	193	ACTED_IN	Capt. John Harriman
+2395	193	ACTED_IN	Guinan
+2387	200	ACTED_IN	Captain Jean-Luc Picard
+2388	200	ACTED_IN	Commander William T. Riker
+2389	200	ACTED_IN	Lt. Commander Data
+2390	200	ACTED_IN	Lt. Commander Geordi La Forge
+2392	200	ACTED_IN	Doctor Beverly Crusher
+2393	200	ACTED_IN	Counselor Deanna Troi
+1164	200	ACTED_IN	Adhar Ruafo
+2516	200	ACTED_IN	Vice-Adm. Dougherty
+2517	200	ACTED_IN	Anij
+2518	200	ACTED_IN	Gallatin
+2391	200	ACTED_IN	Lt. Commander Worf
+1748	157	ACTED_IN	Admiral James T. Kirk
+1749	157	ACTED_IN	Capt. Spock/Elevator Voice
+1750	157	ACTED_IN	Dr. Leonard McCoy
+1751	157	ACTED_IN	Montgomery Scott
+1752	157	ACTED_IN	Hikaru Sulu
+1753	157	ACTED_IN	Cmdr. Uhura
+1754	157	ACTED_IN	Pavel Chekov
+1795	157	ACTED_IN	Dr. David Marcus
+1062	157	ACTED_IN	Cmdr. Kruge
+1819	157	ACTED_IN	Lt. Saavik
+1820	157	ACTED_IN	Ambassador Sarek
+1829	157	ACTED_IN	Spock...Age 9
+1830	157	ACTED_IN	Spock...Age 13
+1831	157	ACTED_IN	Spock...Age 17
+1832	157	ACTED_IN	Spock at age 25
+3362	157	ACTED_IN	Vulcan High Priestess
+1748	152	ACTED_IN	Captain James T. Kirk
+1749	152	ACTED_IN	Mr. Spock
+1752	152	ACTED_IN	Lt. Cmdr. Hikaru Sulu
+1751	152	ACTED_IN	Montgomery Scott
+1754	152	ACTED_IN	Lt. Pavel Chekov
+1753	152	ACTED_IN	Lt. Cmdr. Uhura
+1750	152	ACTED_IN	Dr. Leonard McCoy
+1755	152	ACTED_IN	Dr. Christine Chapel
+1756	152	ACTED_IN	Capt./Cmdr. Willard Decker
+1757	152	ACTED_IN	Lieutenant Ilia
+1759	152	ACTED_IN	CPO Janice Rand
+1820	152	ACTED_IN	Klingon Captain
+168423	152	ACTED_IN	Alien Boy
+44054	152	ACTED_IN	Epsilon Technician
+178145	152	ACTED_IN	Airlock Technician
+72658	152	ACTED_IN	Crew Member
+2387	201	ACTED_IN	Captain Jean-Luc Picard
+2388	201	ACTED_IN	Captain William T. Riker
+2389	201	ACTED_IN	Lt. Commander Data
+2390	201	ACTED_IN	Lt. Commander Geordi La Forge
+2392	201	ACTED_IN	Dr. Beverly Crusher
+2393	201	ACTED_IN	Counselor Deanna Troi-Riker
+2524	201	ACTED_IN	Praetor Shinzon
+2372	201	ACTED_IN	The Reman Viceroy
+2525	201	ACTED_IN	Senator Talaura
+2133	201	ACTED_IN	Commander Donatra
+2391	201	ACTED_IN	Lt. Commander Worf
+1748	154	ACTED_IN	Admiral James T. Kirk
+1749	154	ACTED_IN	Captain Spock
+1750	154	ACTED_IN	Dr. Leonard McCoy
+1751	154	ACTED_IN	Montgomery Scott
+1752	154	ACTED_IN	Cmdr. Hikaru Sulu
+1753	154	ACTED_IN	Cmdr. Uhura
+1754	154	ACTED_IN	Cmdr. Pavel Chekov
+1793	154	ACTED_IN	Khan Noonien Singh
+1794	154	ACTED_IN	Dr. Carol Marcus
+1795	154	ACTED_IN	Dr. David Marcus
+1796	154	ACTED_IN	Lt. Saavik
+1818	154	ACTED_IN	Captain Clark Terrell
+85	12155	ACTED_IN	The Mad Hatter
+1813	12155	ACTED_IN	The White Queen
+1283	12155	ACTED_IN	The Red Queen
+1064	12155	ACTED_IN	The Knave of Hearts
+76070	12155	ACTED_IN	Alice Kingsley
+20982	12155	ACTED_IN	Charles Kingsley
+26209	12155	ACTED_IN	Tweedledee / Tweedledum
+30083	12155	ACTED_IN	Helen Kingsley
+11276	12155	ACTED_IN	Lord Ascot
+47468	12155	ACTED_IN	Aunt Imogene
+3968	12155	ACTED_IN	The White Rabbit (voice)
+4566	12155	ACTED_IN	The Caterpillar (voice)
+113	12155	ACTED_IN	The Jabberwocky (voice)
+11275	12155	ACTED_IN	The Cheshire Cat (voice)
+9191	12155	ACTED_IN	The Bloodhound (voice)
+34900	12155	ACTED_IN	The March Hare (voice)
+40942	12155	ACTED_IN	The Dormouse (voice)
+3796	12155	ACTED_IN	The Dodo (voice)
+11356	12155	ACTED_IN	Tall Flower Faces (voice)
+85	58	ACTED_IN	Captain Jack Sparrow
+116	58	ACTED_IN	Elizabeth Swann
+114	58	ACTED_IN	Will Turner
+1709	58	ACTED_IN	James Norrington
+2440	58	ACTED_IN	Davy Jones
+1640	58	ACTED_IN	Bootstrap Bill
+2441	58	ACTED_IN	Lord Beckett
+378	58	ACTED_IN	Governor Weatherby Swann
+2038	58	ACTED_IN	Tia Dalma
+118	58	ACTED_IN	Captain Barbossa
+2449	58	ACTED_IN	Joshamee Gibbs
+1710	58	ACTED_IN	Pintel
+1711	58	ACTED_IN	Ragetti
+1715	58	ACTED_IN	Cotton
+2451	58	ACTED_IN	Captain Bellamy
+2450	58	ACTED_IN	Scarlet
+2452	58	ACTED_IN	Giselle
+82636	58	ACTED_IN	Frightened Sailor
+85	285	ACTED_IN	Jack Sparrow
+114	285	ACTED_IN	Will Turner
+116	285	ACTED_IN	Elizabeth Swann
+1619	285	ACTED_IN	Captain Sao Feng
+118	285	ACTED_IN	Barbossa
+378	285	ACTED_IN	Governor Weatherby Swann
+2440	285	ACTED_IN	Davy Jones
+2441	285	ACTED_IN	Lord Cutler Beckett
+1640	285	ACTED_IN	Bootstrap Bill Turner
+2449	285	ACTED_IN	Joshamee Gibbs
+1709	285	ACTED_IN	Admiral James Norrington
+1711	285	ACTED_IN	Ragetti
+1710	285	ACTED_IN	Pintel
+4030	285	ACTED_IN	Marty
+4031	285	ACTED_IN	Lieutenant Groves
+2038	285	ACTED_IN	Tia Dalma
+1430	285	ACTED_IN	Teague Sparrow
+85	118	ACTED_IN	Willy Wonka
+1281	118	ACTED_IN	Charlie Bucket
+1285	118	ACTED_IN	Violet Beauregarde
+1286	118	ACTED_IN	Veruca Salt
+1282	118	ACTED_IN	Grandpa Joe
+1283	118	ACTED_IN	Mrs. Bucket
+1284	118	ACTED_IN	Mr. Bucket
+1290	118	ACTED_IN	Mike Teavee
+1291	118	ACTED_IN	Augustus Glupsch
+1292	118	ACTED_IN	Mr. Salt
+1293	118	ACTED_IN	Mrs. Glupsch
+1294	118	ACTED_IN	Mrs. Beauregard
+113	118	ACTED_IN	Dr. Wonka
+1295	118	ACTED_IN	Oompa Loompa
+184997	118	ACTED_IN	Shopkeeper
+7320	118	ACTED_IN	
+85	22	ACTED_IN	Jack Sparrow
+114	22	ACTED_IN	Will Turner
+116	22	ACTED_IN	Elizabeth Swann
+118	22	ACTED_IN	Barbossa
+1710	22	ACTED_IN	Pintel
+378	22	ACTED_IN	Governor Weatherby Swann
+1709	22	ACTED_IN	Norrington
+1711	22	ACTED_IN	Ragetti
+1712	22	ACTED_IN	Lt. Gillette
+1713	22	ACTED_IN	Murtogg
+1714	22	ACTED_IN	Mullroy
+1715	22	ACTED_IN	Cotton
+1716	22	ACTED_IN	Twigg
+1717	22	ACTED_IN	Bosun
+8691	22	ACTED_IN	Anamaria
+82636	22	ACTED_IN	Frightened Sailor
+82143	22	ACTED_IN	Young Elizabeth Swann
+2449	22	ACTED_IN	Joshamee Gibbs
+1137	392	ACTED_IN	Vianne Rocher
+658	392	ACTED_IN	Comte Paul de Reynaud
+85	392	ACTED_IN	Roux
+530	392	ACTED_IN	Caroline Clairmont
+5309	392	ACTED_IN	Armande Voizin
+5310	392	ACTED_IN	Jean-Marc Drou
+5311	392	ACTED_IN	Francoise Drou
+5312	392	ACTED_IN	Pere Henri
+5313	392	ACTED_IN	Josephine Muscat
+53	392	ACTED_IN	Serge Muscat
+5314	392	ACTED_IN	Luc Clairmont
+5315	392	ACTED_IN	Anouk Rocher
+5316	392	ACTED_IN	Dedou Drou
+5317	392	ACTED_IN	Didi Drou
+5318	392	ACTED_IN	Yvette Marceau
+5319	392	ACTED_IN	Alphonse Marceau
+5320	392	ACTED_IN	Madame Audel
+5321	392	ACTED_IN	Guillaume Blerot
+31	5255	ACTED_IN	Hero Boy | Father | Conducter | Santa Clause | Scrooge | Hobo
+2169	5255	ACTED_IN	Smokey | Steamer
+42362	5255	ACTED_IN	Know-It-All
+23791	5255	ACTED_IN	Toothless Boy
+18286	5255	ACTED_IN	Hero Girl
+42363	5255	ACTED_IN	Lonely Boy
+12826	5255	ACTED_IN	Elf General
+37935	5255	ACTED_IN	Elf Lieutenant
+42287	5255	ACTED_IN	Mother
+42286	5255	ACTED_IN	Red Head Girl
+1080274	5255	ACTED_IN	Pastry Chef
+31	568	ACTED_IN	Jim Lovell
+2053	568	ACTED_IN	Fred Haise
+4724	568	ACTED_IN	Jack Swigert
+33	568	ACTED_IN	Ken Mattingly
+228	568	ACTED_IN	Gene Kranz
+8183	568	ACTED_IN	Marilyn Lovell
+8184	568	ACTED_IN	Barbara Lovell
+8185	568	ACTED_IN	Susan Lovell
+8186	568	ACTED_IN	Jeffrey Lovell
+8187	568	ACTED_IN	Jay Lovell
+8188	568	ACTED_IN	Blanch Lovell
+8189	568	ACTED_IN	Mary Haise
+7219	568	ACTED_IN	Pete Conrad
+8190	568	ACTED_IN	Jane Conrad
+8191	568	ACTED_IN	Deke Slayton
+8192	568	ACTED_IN	NASA Director
+3982	568	ACTED_IN	Henry Hurt
+102429	568	ACTED_IN	Congressman
+10362	9800	ACTED_IN	Judge Tate
+59329	9800	ACTED_IN	Crutches
+3131	9800	ACTED_IN	Miguel Alvarez
+5292	9800	ACTED_IN	Joe Mille
+31	9800	ACTED_IN	Andrew Beckett
+568363	9800	ACTED_IN	Dr. Gillman
+91428	9800	ACTED_IN	Clinic Storyteller
+568364	9800	ACTED_IN	Clinic Patient
+568365	9800	ACTED_IN	Tyrone
+568366	9800	ACTED_IN	Kenneth Killcoyne
+32592	9800	ACTED_IN	Bob Seidman
+63279	9800	ACTED_IN	Anthea Burton
+58539	9800	ACTED_IN	Rachel Smilow
+568367	9800	ACTED_IN	Shelby
+11367	9800	ACTED_IN	Jamey Collins
+31	497	ACTED_IN	Paul Edgecomb
+61981	497	ACTED_IN	John Coffey
+5149	497	ACTED_IN	Jan Edgecomb
+52	497	ACTED_IN	Brutus Brutal Howell
+2169	497	ACTED_IN	Eduard Delacroix
+6804	497	ACTED_IN	Arlen Bitterbuck
+1276	497	ACTED_IN	Melinda Moores
+6805	497	ACTED_IN	Old Paul Edgecomb
+33	497	ACTED_IN	Lawyer Burt Hammersmith
+6806	497	ACTED_IN	Percy Wetmore
+6807	497	ACTED_IN	Wild Bill Wharton
+2505	497	ACTED_IN	Warden Hal Moores
+12834	497	ACTED_IN	Dean Stanton
+5048	497	ACTED_IN	Toot-Toot
+12645	497	ACTED_IN	Harry Terwilliger
+128201	497	ACTED_IN	Elaine Connelly
+1003	101	ACTED_IN	Léon
+524	101	ACTED_IN	Mathilda
+1004	101	ACTED_IN	Tony
+64	101	ACTED_IN	Stansfield
+1005	101	ACTED_IN	Malky
+1006	101	ACTED_IN	1st Stansfield man
+1008	101	ACTED_IN	3 rd Stansfield man
+1007	101	ACTED_IN	2nd Stansfield man
+1010	101	ACTED_IN	Mathildas Father
+13420	101	ACTED_IN	Mathildas Mother
+122230	101	ACTED_IN	Mathildas Sister
+977543	101	ACTED_IN	Mathildas Brother
+138401	101	ACTED_IN	Fatman
+1171232	101	ACTED_IN	Tonto (as Lucius Wyatt Cherokee)
+1171233	101	ACTED_IN	Bodyguard Chief
+185351	101	ACTED_IN	Mickey
+64210	101	ACTED_IN	Blond Babe (as Ouin-Ouin)
+58533	101	ACTED_IN	Old Lady
+2701	101	ACTED_IN	Receptionist
+1171234	101	ACTED_IN	Mathildas Taxi driver
+94435	101	ACTED_IN	Leons Taxi driver
+20914	101	ACTED_IN	1st Policeman
+159887	101	ACTED_IN	2nd Policeman
+28037	101	ACTED_IN	1st Security man
+1171238	101	ACTED_IN	2nd Security man
+1171239	101	ACTED_IN	Kids Leader
+171224	101	ACTED_IN	Pauly
+1171240	101	ACTED_IN	Cigarette Kid
+109	120	ACTED_IN	Frodo Baggins
+1327	120	ACTED_IN	Gandalf the Grey
+110	120	ACTED_IN	Aragorn
+882	120	ACTED_IN	Arwen Evenstar
+114	120	ACTED_IN	Legolas
+655	120	ACTED_IN	Gimli
+48	120	ACTED_IN	Boromir
+113	120	ACTED_IN	Saruman
+1328	120	ACTED_IN	Samwise Sam Gamgee
+1329	120	ACTED_IN	Peregrin Pippin Took
+1330	120	ACTED_IN	Meriadoc Merry Brandybuck
+1331	120	ACTED_IN	Elrond
+112	120	ACTED_IN	Galadriel
+65	120	ACTED_IN	Bilbo Baggins
+1332	120	ACTED_IN	Haldir
+1365	120	ACTED_IN	Lurtz
+1366	120	ACTED_IN	Sauron
+1367	120	ACTED_IN	The Ring (voice)
+1333	120	ACTED_IN	Gollum
+965278	120	ACTED_IN	Rose Rosie Cotton
+109	121	ACTED_IN	Frodo Baggins
+1327	121	ACTED_IN	Gandalf the White
+110	121	ACTED_IN	Aragorn
+882	121	ACTED_IN	Arwen Evenstar
+114	121	ACTED_IN	Legolas
+655	121	ACTED_IN	Gimli
+113	121	ACTED_IN	Saruman
+1328	121	ACTED_IN	Sam Gamgee
+1329	121	ACTED_IN	Peregrin Pippin Took
+1330	121	ACTED_IN	Meriadoc Merry Brandybuck
+1331	121	ACTED_IN	Elrond
+1332	121	ACTED_IN	Haldir
+1369	121	ACTED_IN	Théoden
+1333	121	ACTED_IN	Gollum
+1370	121	ACTED_IN	Gríma Wormtongue
+502	121	ACTED_IN	Éowyn
+1371	121	ACTED_IN	Faramir
+1372	121	ACTED_IN	Éomer
+112	121	ACTED_IN	Galadriel
+941439	121	ACTED_IN	Freda
+48	121	ACTED_IN	Boromir
+109	122	ACTED_IN	Frodo Baggins
+1327	122	ACTED_IN	Gandalf the White
+110	122	ACTED_IN	Aragorn
+882	122	ACTED_IN	Arwen Evenstar
+114	122	ACTED_IN	Legolas
+655	122	ACTED_IN	Gimli & Treebeard (Voice)
+1328	122	ACTED_IN	Sam Gamgee
+1329	122	ACTED_IN	Peregrin Pippin Took
+1330	122	ACTED_IN	Meriadoc Merry Brandybuck
+1331	122	ACTED_IN	Elrond
+1369	122	ACTED_IN	Théoden, King of Rohan
+1333	122	ACTED_IN	Gollum
+502	122	ACTED_IN	Éowyn
+1371	122	ACTED_IN	Faramir
+1372	122	ACTED_IN	Éomer
+1381	122	ACTED_IN	Denethor
+65	122	ACTED_IN	Bilbo Baggins
+112	122	ACTED_IN	Galadriel
+1365	122	ACTED_IN	Gothmog & Witchking of Angmar
+1382	122	ACTED_IN	King of the Dead
+1383	122	ACTED_IN	Deagol
+108	122	ACTED_IN	Mercenary On Boat
+965278	122	ACTED_IN	Rosie Cotton
+48	122	ACTED_IN	Boromir
+2710	19995	DIRECTED
+2419	194	DIRECTED
+240	600	DIRECTED
+488	601	DIRECTED
+6046	602	DIRECTED
+9340	603	DIRECTED
+9339	603	DIRECTED
+9340	604	DIRECTED
+9339	604	DIRECTED
+9339	605	DIRECTED
+9340	605	DIRECTED
+2226	606	DIRECTED
+5174	607	DIRECTED
+5174	608	DIRECTED
+10051	609	DIRECTED
+24	13	DIRECTED
+86270	20526	DIRECTED
+1	11	DIRECTED
+1	1893	DIRECTED
+19800	1892	DIRECTED
+1	1894	DIRECTED
+1749	168	DIRECTED
+2380	193	DIRECTED
+2388	200	DIRECTED
+1749	157	DIRECTED
+1744	152	DIRECTED
+2523	201	DIRECTED
+1788	154	DIRECTED
+510	12155	DIRECTED
+1704	58	DIRECTED
+1704	285	DIRECTED
+510	118	DIRECTED
+1704	22	DIRECTED
+5306	392	DIRECTED
+24	5255	DIRECTED
+6159	568	DIRECTED
+16294	9800	DIRECTED
+4027	497	DIRECTED
+59	101	DIRECTED
+108	120	DIRECTED
+108	121	DIRECTED
+108	122	DIRECTED

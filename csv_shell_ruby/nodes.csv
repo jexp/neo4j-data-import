@@ -1,0 +1,561 @@
+movie_id	title	tagline	released	id	name	genre
+19995	Avatar	Enter the World of Pandora.	2009-12-15
+194	Amélie	One person can change your life forever.	2001-11-02
+600	Full Metal Jacket	Vietnam can kill me, but it can’t make me care.	1987-05-31
+601	E.T. the Extra-Terrestrial	He is afraid. He is alone. He is three million light years from home.	1982-06-11
+602	Independence Day	Earth. Take a good look. It might be your last.	1996-07-02
+603	The Matrix	Welcome to the Real World.	1999-03-30
+604	The Matrix Reloaded	Free your mind.	2003-05-06
+605	The Matrix Revolutions	Everything that has a beginning has an end.	2003-10-26
+606	Out of Africa		1985-12-10
+607	Men in Black	Protecting the Earth from the scum of the universe.	1997-07-03
+608	Men in Black II	Same Planet. New Scum.	2002-07-02
+609	Poltergeist	Theyre here.	1982-06-04
+13	Forrest Gump	Life is like a box of chocolates...you never know what youre gonna get.	1994-06-22
+20526	TRON: Legacy	The Game Has Changed.	2010-12-16
+11	Star Wars: Episode IV - A New Hope	A long time ago in a galaxy far, far away...	1977-05-25
+1893	Star Wars: Episode I - The Phantom Menace	Every generation has a legend. Every journey has a first step. Every saga has a beginning.	1999-05-19
+1892	Star Wars: Episode VI - Return of the Jedi	The Empire Falls...	1983-05-25
+1894	Star Wars: Episode II - Attack of the Clones	A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.	2002-05-16
+168	Star Trek IV: The Voyage Home	The key to saving the future can only be found in the past.	1986-11-25
+193	Star Trek: Generations	Boldly go.	1994-11-17
+200	Star Trek: Insurrection	The battle for paradise has begun.	1998-12-10
+157	Star Trek III: The Search for Spock	A dying planet. A fight for life.	1984-05-31
+152	Star Trek: The Motion Picture	The human adventure is just beginning.	1979-12-06
+201	Star Trek: Nemesis	A generations final journey... begins.	2002-12-12
+154	Star Trek II: The Wrath of Khan	At the end of the universe lies the beginning of vengeance.	1982-06-03
+12155	Alice in Wonderland	Youre invited to a very important date.	2010-03-05
+58	Pirates of the Caribbean: Dead Mans Chest	Jack is back!	2006-07-07
+285	Pirates of the Caribbean: At Worlds End	At the end of the world, the adventure begins.	2007-05-19
+118	Charlie and the Chocolate Factory	Willy Wonka is semi-sweet and nuts.	2005-07-09
+22	Pirates of the Caribbean: The Curse of the Black Pearl	Prepare to be blown out of the water.	2003-07-09
+392	Chocolat	...and the world is still indulging!	2000-12-14
+5255	The Polar Express	Journey Beyond Your Imagination.	2004-11-10
+568	Apollo 13	Houston, we have a problem.	1995-06-30
+9800	Philadelphia		1993-12-22
+497	The Green Mile	Miracles do happen.	1999-12-05
+101	Leon: The Professional	If you want a job done well, hire a professional.	1994-11-18
+120	The Lord of the Rings: The Fellowship of the Ring	One ring to rule them all	2001-12-19
+121	The Lord of the Rings: The Two Towers	A New Power Is Rising.	2002-12-18
+122	The Lord of the Rings: The Return of the King	The eye of the enemy is moving.	2003-12-17
+						Action
+						Adventure
+						Fantasy
+						Science Fiction
+						Drama
+						Comedy
+						Romance
+						Foreign
+						History
+						War
+						Family
+						Thriller
+						Horror
+						Mystery
+						Animation
+						Holiday
+						Disaster
+						Crime
+				65731	Sam Worthington
+				8691	Zoe Saldana
+				10205	Sigourney Weaver
+				32747	Stephen Lang
+				17647	Michelle Rodriguez
+				59231	Joel David Moore
+				1771	Giovanni Ribisi
+				30485	CCH Pounder
+				10964	Laz Alonso
+				15853	Wes Studi
+				95697	Dileep Rao
+				98215	Matt Gerald
+				98216	Dean Knowsley
+				2405	Audrey Tautou
+				2407	Rufus
+				2408	Jamel Debbouze
+				1654	Claire Maurier
+				2412	Isabelle Nanty
+				2413	Dominique Pinon
+				2414	Artus de Penguern
+				2415	Yolande Moreau
+				2409	Lorella Cravotta
+				2410	Serge Merlin
+				2411	Clotilde Mollet
+				2416	Urbain Cancelier
+				2417	Maurice Bénichou
+				2406	Mathieu Kassovitz
+				8654	Matthew Modine
+				2059	Adam Baldwin
+				7132	Vincent DOnofrio
+				8655	R. Lee Ermey
+				8656	Dorian Harewood
+				8657	Kevyn Major Howard
+				3229	Arliss Howard
+				8658	Ed ORoss
+				8659	John Terry
+				8660	Kieron Jecchinis
+				8661	Kirk Taylor
+				8662	Tim Colceri
+				8663	Jon Stafford
+				8664	Bruce Boa
+				8665	Ian Tyler
+				8666	Sal Lopez
+				8667	Gary Landon Mills
+				8668	Papillon Soo
+				8669	Peter Edmund
+				8670	Ngoc Le
+				8671	Tan Hung Francione
+				8672	Costas Dino Chimona
+				9976	Henry Thomas
+				9979	Peter Coyote
+				69597	Drew Barrymore
+				23764	Erika Eleniak
+				9981	Sean Frye
+				2878	C. Thomas Howell
+				9978	Robert MacNaughton
+				9982	David M. ODell
+				9980	K.C. Martel
+				9983	Richard Swingler
+				9984	Frank Toth
+				9985	Pat Welsh
+				62001	Dee Wallace
+				2888	Will Smith
+				8984	Bill Pullman
+				4785	Jeff Goldblum
+				1581	Mary McDonnell
+				6167	Judd Hirsch
+				1162	Robert Loggia
+				1811	Randy Quaid
+				8985	Margaret Colin
+				2535	Vivica A. Fox
+				8986	James Rebhorn
+				7420	Harvey Fierstein
+				2389	Brent Spiner
+				1582	James Duval
+				8987	Lisa Jakub
+				4133	Giuseppe Andrews
+				18688	Harry Connick Jr.
+				6384	Keanu Reeves
+				2975	Laurence Fishburne
+				530	Carrie-Anne Moss
+				1331	Hugo Weaving
+				532	Joe Pantoliano
+				9372	Marcus Chong
+				9364	Gloria Foster
+				7244	Julian Arahanga
+				9376	Belinda McClory
+				9374	Matt Doran
+				9378	Anthony Ray Parker
+				9380	Paul Goddard
+				9383	David Aston
+				9384	Marc Aden
+				39545	Robert Taylor
+				181214	Ada Nicodemou
+				1090466	Denni Gordon
+				218366	Rowan Witt
+				57799	Bill Young
+				9443	Helmut Bakaitis
+				2192	Lambert Wilson
+				28782	Monica Bellucci
+				9448	Adrian Rayment
+				9450	Neil Rayment
+				9452	Daniel Bernhardt
+				9457	Roy Jones Jr.
+				9459	David Kilde
+				9462	Randall Duk Kim
+				9464	Harry Lennix
+				9466	Matt McColm
+				52908	Collin Chou
+				537506	Cornel West
+				9575	Jada Pinkett Smith
+				18286	Nona Gaye
+				9572	Mary Alice
+				6195	Harold Perrineau
+				9576	Gina Torres
+				62490	Maurice Morgan
+				5064	Meryl Streep
+				4135	Robert Redford
+				10647	Klaus Maria Brandauer
+				10648	Michael Kitchen
+				10649	Malick Bowens
+				10650	Joseph Thiaka
+				10651	Stephen Kinyanjui
+				3796	Michael Gough
+				10652	Suzanna Hamilton
+				10653	Rachel Kempson
+				10654	Graham Crowden
+				10655	Leslie Phillips
+				10656	Mike Bugara
+				10657	Shane Rimmer
+				10658	Job Seda
+				1154526	Mohammed Umar
+				2124	Iman
+				2176	Tommy Lee Jones
+				9625	Linda Fiorentino
+				9626	Rip Torn
+				4252	Tony Shalhoub
+				9628	Mike Nussbaum
+				9629	Jon Gries
+				9630	Sergio Calderón
+				9631	Carel Struycken
+				9632	Fredric Lehne
+				9633	Richard Hamilton
+				9634	Kent Faulcon
+				6751	Siobhan Fallon
+				443770	John Alexander
+				6684	Lara Flynn Boyle
+				9656	Johnny Knoxville
+				5916	Rosario Dawson
+				9657	Patrick Warburton
+				1240	Jack Kehler
+				212	David Cross
+				9658	Colombe Jacobsen-Derstine
+				9659	Peter Spellos
+				120724	Jaden Smith
+				8977	Craig T. Nelson
+				10080	JoBeth Williams
+				10083	Beatrice Straight
+				10084	Dominique Dunne
+				10085	Oliver Robins
+				10086	Heather ORourke
+				10087	Michael McManus
+				10088	Virginia Kiser
+				10089	Martin Casella
+				10090	Richard Lawson
+				10091	Zelda Rubinstein
+				2851	Lou Perryman
+				31	Tom Hanks
+				32	Robin Wright
+				33	Gary Sinise
+				34	Mykelti Williamson
+				35	Sally Field
+				37821	Michael Conner Humphreys
+				37822	Peter Dobson
+				37823	Sonny Shroyer
+				37824	Jed Gillin
+				37825	Afemo Omilami
+				37826	Steven Griffith
+				37827	John William Galt
+				37828	Nora Dunfee
+				37829	Michael Mattison
+				9640	Haley Joel Osment
+				37830	Kitty K. Green
+				37831	Marlena Smalls
+				37832	Kevin Mangan
+				36221	Sam Anderson
+				204997	Hanna Hall
+				9828	Garrett Hedlund
+				1229	Jeff Bridges
+				59315	Olivia Wilde
+				2547	Bruce Boxleitner
+				60033	Yaya DaCosta
+				86268	Serinda Swan
+				20403	Beau Garrett
+				130108	Elizabeth Mathis
+				22063	James Frain
+				86269	Amy Esterle
+				58371	Brandon Jay McLaren
+				3968	Michael Sheen
+				109205	Owen Best
+				37980	Michael Teigen
+				67931	Daft Punk
+				10874	Ron Selmour
+				43263	Conrad Coates
+				145110	Kis Yurij
+				2	Mark Hamill
+				4	Carrie Fisher
+				3	Harrison Ford
+				5	Peter Cushing
+				6	Anthony Daniels
+				130	Kenny Baker
+				12248	Alec Guinness
+				24343	Peter Mayhew
+				24342	David Prowse
+				15152	James Earl Jones
+				33032	Phil Brown
+				131625	Shelagh Fraser
+				81024	Roger Lloyd-Pack
+				663	William Hootkins
+				166258	Malcolm Tierney
+				524	Natalie Portman
+				3061	Ewan McGregor
+				3896	Liam Neeson
+				27762	Ian McDiarmid
+				33196	Jake Lloyd
+				33190	Pernilla August
+				7908	Frank Oz
+				31923	Oliver Ford Davies
+				11007	Ray Park
+				31925	Hugh Quarshie
+				33197	Ahmed Best
+				33198	Andrew Secombe
+				25441	Steve Speirs
+				2231	Samuel L. Jackson
+				116	Keira Knightley
+				1769	Sofia Coppola
+				11184	Warwick Davis
+				3799	Billy Dee Williams
+				28235	Sebastian Shaw
+				17244	Hayden Christensen
+				113	Christopher Lee
+				9827	Rose Byrne
+				33186	Alan Ruscoe
+				33187	Veronica Segura
+				20806	Silas Carson
+				33188	Ron Falk
+				33182	Jay Lagaaia
+				33181	Jimmy Smits
+				33189	Daniel Logan
+				7242	Temuera Morrison
+				33191	Ayesha Dharker
+				33192	Joel Edgerton
+				12536	Jack Thompson
+				131634	Bonnie Piesse
+				1748	William Shatner
+				1749	Leonard Nimoy
+				1750	DeForest Kelley
+				1751	James Doohan
+				1752	George Takei
+				1754	Walter Koenig
+				1753	Nichelle Nichols
+				2021	Jane Wyatt
+				2022	Catherine Hicks
+				1820	Mark Lenard
+				1819	Robin Curtis
+				2387	Patrick Stewart
+				2388	Jonathan Frakes
+				2390	LeVar Burton
+				2391	Michael Dorn
+				2392	Gates McFadden
+				2393	Marina Sirtis
+				56890	Malcolm McDowell
+				2394	Alan Ruck
+				2395	Whoopi Goldberg
+				1164	F. Murray Abraham
+				2516	Anthony Zerbe
+				2517	Donna Murphy
+				2518	Gregg Henry
+				1795	Merritt Butrick
+				1062	Christopher Lloyd
+				1829	Carl Steven
+				1830	Vadia Potenza
+				1831	Stephen Manley
+				1832	Joe W. Davis
+				3362	Judith Anderson
+				1755	Majel Barrett
+				1756	Stephen Collins
+				1757	Persis Khambatta
+				1759	Grace Lee Whitney
+				168423	Billy Van Zandt
+				44054	Roger Aaron Brown
+				178145	Gary Faga
+				72658	Franklyn Seales
+				2524	Tom Hardy
+				2372	Ron Perlman
+				2525	Shannon Cochran
+				2133	Dina Meyer
+				1793	Ricardo Montalban
+				1794	Bibi Besch
+				1796	Kirstie Alley
+				1818	Paul Winfield
+				85	Johnny Depp
+				1813	Anne Hathaway
+				1283	Helena Bonham Carter
+				1064	Crispin Glover
+				76070	Mia Wasikowska
+				20982	Marton Csokas
+				26209	Matt Lucas
+				30083	Lindsay Duncan
+				11276	Tim Pigott-Smith
+				47468	Frances de la Tour
+				4566	Alan Rickman
+				11275	Stephen Fry
+				9191	Timothy Spall
+				34900	Paul Whitehouse
+				40942	Barbara Windsor
+				11356	Imelda Staunton
+				114	Orlando Bloom
+				1709	Jack Davenport
+				2440	Bill Nighy
+				1640	Stellan Skarsgård
+				2441	Tom Hollander
+				378	Jonathan Pryce
+				2038	Naomie Harris
+				118	Geoffrey Rush
+				2449	Kevin McNally
+				1710	Lee Arenberg
+				1711	Mackenzie Crook
+				1715	David Bailie
+				2451	Alex Norton
+				2450	Lauren Maher
+				2452	Vanessa Branch
+				82636	Luke de Woolfson
+				1619	Chow Yun-Fat
+				4030	Martin Klebba
+				4031	Greg Ellis
+				1430	Keith Richards
+				1281	Freddie Highmore
+				1285	AnnaSophia Robb
+				1286	Julia Winter
+				1282	David Kelly
+				1284	Noah Taylor
+				1290	Jordan Fry
+				1291	Philip Wiegratz
+				1292	James Fox
+				1293	Franziska Troegner
+				1294	Missi Pyle
+				1295	Deep Roy
+				184997	Oscar James
+				7320	Liz Smith
+				1712	Damian OHare
+				1713	Giles New
+				1714	Angus Barnett
+				1716	Michael Berry Jr.
+				1717	Isaac C. Singleton Jr.
+				82143	Lucinda Dryzek
+				1137	Juliette Binoche
+				658	Alfred Molina
+				5309	Judi Dench
+				5310	Antonio Gil
+				5311	Hélène Cardona
+				5312	Hugh OConor
+				5313	Lena Olin
+				53	Peter Stormare
+				5314	Aurelien Parent Koenig
+				5315	Victoire Thivisol
+				5316	Harrison Pratt
+				5317	Gaelan Connell
+				5318	Elisabeth Commelin
+				5319	Ron Cook
+				5320	Leslie Caron
+				5321	John Wood
+				2169	Michael Jeter
+				42362	Eddie Deezen
+				23791	Chris Coppola
+				42363	Peter Scolari
+				12826	Charles Fleischer
+				37935	Steven Tyler
+				42287	Leslie Zemeckis
+				42286	Julene Renee
+				1080274	Andy Pellick
+				2053	Bill Paxton
+				4724	Kevin Bacon
+				228	Ed Harris
+				8183	Kathleen Quinlan
+				8184	Mary Kate Schellhardt
+				8185	Emily Ann Lloyd
+				8186	Miko Hughes
+				8187	Max Elliott Slade
+				8188	Jean Speegle Howard
+				8189	Tracy Reiner
+				7219	David Andrews
+				8190	Michele Little
+				8191	Chris Ellis
+				8192	Joe Spano
+				3982	Xander Berkeley
+				102429	Roger Corman
+				10362	Roberta Maxwell
+				59329	Buzz Kilman
+				3131	Antonio Banderas
+				5292	Denzel Washington
+				568363	Karen Finley
+				91428	Daniel Chapman
+				568364	Mark Sorensen Jr.
+				568365	Jeffrey Williamson
+				568366	Charles Glenn
+				32592	Ron Vawter
+				63279	Anna Deavere Smith
+				58539	Stephanie Roth Haberle
+				568367	Lisa Talerico
+				11367	Bradley Whitford
+				61981	Michael Clarke Duncan
+				5149	Bonnie Hunt
+				52	David Morse
+				6804	Graham Greene
+				1276	Patricia Clarkson
+				6805	Dabbs Greer
+				6806	Doug Hutchison
+				6807	Sam Rockwell
+				2505	James Cromwell
+				12834	Barry Pepper
+				5048	Harry Dean Stanton
+				12645	Jeffrey DeMunn
+				128201	Eve Brent
+				1003	Jean Reno
+				1004	Danny Aiello
+				64	Gary Oldman
+				1005	Peter Appel
+				1006	Willi One Blood
+				1008	Keith A. Glascoe
+				1007	Don Creech
+				1010	Michael Badalucco
+				13420	Ellen Greene
+				122230	Elizabeth Regen
+				977543	Carl J. Matusovich
+				138401	Frank Senger
+				1171232	Lucius Wyatt Cherokee
+				1171233	Eric Challier
+				185351	Luc Bernard
+				64210	Maïwenn Le Besco
+				58533	Jessie Keosian
+				2701	George Martin
+				1171234	Abdul Hassan Sharif
+				94435	Stuart Rudin
+				20914	Kent Broadhurst
+				159887	Tommy Hollis
+				28037	Peter Linari
+				1171238	Johnny Limo
+				1171239	Danny Peled
+				171224	Seth Jerome Walker
+				1171240	Michael Mundra
+				109	Elijah Wood
+				1327	Ian McKellen
+				110	Viggo Mortensen
+				882	Liv Tyler
+				655	John Rhys-Davies
+				48	Sean Bean
+				1328	Sean Astin
+				1329	Billy Boyd
+				1330	Dominic Monaghan
+				112	Cate Blanchett
+				65	Ian Holm
+				1332	Craig Parker
+				1365	Lawrence Makoare
+				1366	Sala Baker
+				1367	Alan Howard
+				1333	Andy Serkis
+				965278	Sarah McLeod
+				1369	Bernard Hill
+				1370	Brad Dourif
+				502	Miranda Otto
+				1371	David Wenham
+				1372	Karl Urban
+				941439	Olivia Tennet
+				1381	John Noble
+				1382	Paul Norell
+				1383	Thomas Robins
+				108	Peter Jackson
+				2710	James Cameron
+				2419	Jean-Pierre Jeunet
+				240	Stanley Kubrick
+				488	Steven Spielberg
+				6046	Roland Emmerich
+				9340	Lana Wachowski
+				9339	Andy Wachowski
+				2226	Sydney Pollack
+				5174	Barry Sonnenfeld
+				10051	Tobe Hooper
+				24	Robert Zemeckis
+				86270	Joseph Kosinski
+				1	George Lucas
+				19800	Richard Marquand
+				2380	David Carson
+				1744	Robert Wise
+				2523	Stuart Baird
+				1788	Nicholas Meyer
+				510	Tim Burton
+				1704	Gore Verbinski
+				5306	Lasse Hallström
+				6159	Ron Howard
+				16294	Jonathan Demme
+				4027	Frank Darabont
+				59	Luc Besson
